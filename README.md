@@ -1,10 +1,4 @@
 # Aviral Kumar Singh
-##Table of Contents
-###
-
-
-
-
 
 ### References
 1. [SelfDriving Car NanoDegree Coursera](https://github.com/aviralksingh/Self-Driving-Cars)
