@@ -1,8 +1,8 @@
 # Aviral Kumar Singh
 
 ### Table of Contents
-#### [1. Self Driving - BootCamps](#SelfDriving References)
-#### [2. Deep Learning - BootCamps](#DeepLearning References)
+#### [1. Self Driving - BootCamps](#SelfDrivingReferences)
+#### [2. Deep Learning - BootCamps](#DeepLearningReferences)
 
 
 
