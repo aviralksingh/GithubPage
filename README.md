@@ -42,8 +42,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### SelfDriving References
+### SelfDrivingReferences
 1. [SelfDriving Car NanoDegree Coursera](https://github.com/aviralksingh/Self-Driving-Cars)
 
-### DeepLearning References
+### DeepLearningReferences
 1. [Deep Learning Coursera](https://github.com/aviralksingh/Deep-Learning-Coursera)
